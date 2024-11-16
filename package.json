@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "syncup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev":"nodemon src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
